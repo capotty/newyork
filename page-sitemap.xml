@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -21,83 +24,83 @@
 	</url>
 	<url>
 		<loc>/schenectady/</loc>
-		<lastmod>2025-02-06T00:48:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/mount-vernon/</loc>
-		<lastmod>2025-02-06T00:48:15+00:00</lastmod>
+		<lastmod>2025-02-06T20:38:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/albany/</loc>
-		<lastmod>2025-02-06T00:48:14+00:00</lastmod>
+		<lastmod>2025-02-06T20:38:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/new-rochelle/</loc>
-		<lastmod>2025-02-06T00:48:14+00:00</lastmod>
+		<lastmod>2025-02-06T20:38:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/yonkers/</loc>
-		<lastmod>2025-02-06T00:48:13+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/syracuse/</loc>
-		<lastmod>2025-02-06T00:48:13+00:00</lastmod>
+		<loc>/mount-vernon/</loc>
+		<lastmod>2025-02-06T20:38:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rochester/</loc>
-		<lastmod>2025-02-06T00:48:12+00:00</lastmod>
+		<lastmod>2025-02-06T20:38:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/saratoga-springs/</loc>
-		<lastmod>2025-02-06T00:48:12+00:00</lastmod>
+		<loc>/yonkers/</loc>
+		<lastmod>2025-02-06T20:38:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/syracuse/</loc>
+		<lastmod>2025-02-06T20:38:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/buffalo/</loc>
-		<lastmod>2025-02-06T00:48:11+00:00</lastmod>
+		<lastmod>2025-02-06T20:38:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/elmira/</loc>
-		<lastmod>2025-02-06T00:48:11+00:00</lastmod>
+		<loc>/saratoga-springs/</loc>
+		<lastmod>2025-02-06T20:38:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/poughkeepsie/</loc>
-		<lastmod>2025-02-06T00:48:10+00:00</lastmod>
+		<lastmod>2025-02-06T20:38:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/ithaca/</loc>
-		<lastmod>2025-02-06T00:48:10+00:00</lastmod>
+		<lastmod>2025-02-06T20:38:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/niagara-falls/</loc>
-		<lastmod>2025-02-06T00:48:09+00:00</lastmod>
+		<loc>/elmira/</loc>
+		<lastmod>2025-02-06T20:38:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/long-beach/</loc>
-		<lastmod>2025-02-06T00:48:09+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/binghamton/</loc>
-		<lastmod>2025-02-06T00:48:08+00:00</lastmod>
+		<lastmod>2025-02-06T20:38:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/kingston/</loc>
-		<lastmod>2025-02-06T00:48:08+00:00</lastmod>
+		<lastmod>2025-02-06T20:38:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/niagara-falls/</loc>
+		<lastmod>2025-02-06T20:38:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/troy/</loc>
-		<lastmod>2025-02-06T00:48:07+00:00</lastmod>
+		<lastmod>2025-02-06T20:38:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/white-plains/</loc>
-		<lastmod>2025-02-06T00:48:07+00:00</lastmod>
+		<loc>/binghamton/</loc>
+		<lastmod>2025-02-06T20:38:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/utica/</loc>
-		<lastmod>2025-02-06T00:48:06+00:00</lastmod>
+		<lastmod>2025-02-06T20:38:52+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/white-plains/</loc>
+		<lastmod>2025-02-06T20:38:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/new-york-city/</loc>
-		<lastmod>2025-02-06T00:48:05+00:00</lastmod>
+		<lastmod>2025-02-06T20:38:51+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
